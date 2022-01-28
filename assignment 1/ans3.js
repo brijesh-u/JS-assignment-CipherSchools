@@ -1,4 +1,5 @@
 // swapping 2 numbers
+
 let num1=prompt('Enter number 1:')
 let num2=prompt('Enter number 2:')
 let temp=num1
